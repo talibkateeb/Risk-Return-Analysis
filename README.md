@@ -56,9 +56,9 @@ keys to run the first cell. Keep hitting those keys to run each cell after that 
 
 Running this cell will show a plot of the 21-Rolling Window Standard Deviation of the four funds. 
 
-![Example]()
+![Example](https://github.com/talibkateeb/Risk-Return-Analysis/blob/main/example.png)
 
 ---
 ## License
 
-[Click here to view]()
+[Click here to view](https://github.com/talibkateeb/Risk-Return-Analysis/blob/main/LICENSE)
